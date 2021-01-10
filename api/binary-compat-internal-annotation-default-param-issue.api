@@ -1,0 +1,11 @@
+public final class co/zsmb/example/MainKt {
+	public static synthetic fun defParamInternalFun$default (IILjava/lang/Object;)V
+	public static final fun defParamPublicFun (Ljava/lang/String;)V
+	public static synthetic fun defParamPublicFun$default (Ljava/lang/String;ILjava/lang/Object;)V
+	public static final fun main ()V
+	public static synthetic fun main ([Ljava/lang/String;)V
+}
+
+public abstract interface annotation class co/zsmb/example/MyInternalApi : java/lang/annotation/Annotation {
+}
+
